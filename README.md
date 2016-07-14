@@ -65,16 +65,22 @@ for them to be delivered, installing them and so on.
 Status
 ------
 
-https://en.wikipedia.org/wiki/Process_state
+Processes (the operating system kind) can be in one of 5 different states [1](https://en.wikipedia.org/wiki/Process_state) at any given time. It's not so different for tasks.
 
-Created
-Waiting
-Running
-Blocked
-Terminated
+- Created
+- Waiting
+- Running
+- Blocked
+- Terminated
 
 Dependencies
 ------------
+
+A task, _t_, has zero or more dependencies. If `task2` has a dependency on `task1`, then `task2` can not be completed until `task1` has been completed. It may be wasteful to begin work on `task2` before `task1` has completed.
+
+Dependencies define a directed acyclic graph (DAG).
+
+Tasks with dependencies are blocked until all their dependencies have been completed.
 
 Scheduling
 ----------
@@ -85,6 +91,8 @@ Tasks are scheduled into resources in much the same way processes are scheduled
 on to CPUs.
 
 "Baselining"
+
+Affinity - resource1 worked on task1, so would be a good choice for task2.
 
 Choosing what to work on
 ------------------------
