@@ -358,7 +358,7 @@ Another approach is to do a monte-carlo simulation.
 
 https://en.wikipedia.org/wiki/Job_shop_scheduling
 http://neuron-ai.tuke.sk/schmotze/Optimal_Scheduling_Using_Constraint_Logic_Programming.pdf
-
+http://4c.ucc.ie/~hsimonis/Scheduling%20and%20Planning%20with%20Constraint%20Logic%20Programming.pdf
 https://en.wikipedia.org/wiki/Fixed-priority_pre-emptive_scheduling
 
 Context-switching
