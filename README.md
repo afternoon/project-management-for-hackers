@@ -3,6 +3,14 @@ Project Management for Hackers
 
 > "Why is it taking so long?"
 
+Organisations are greater than the sum of their parts. They bring people
+together and create valuable products and services for their customers. As
+organisations grow, communication becomes more challenging. It becomes hard to
+know who everyone is and what they're doing. This is a broad challenge, but
+project management has a role to play. The goals of project management are to
+work out what needs to be done to acheive big things and to communicate how
+things are going to the rest of the organisation.
+
 98% of project management is outmoded, wrong-headed rubbish. 2% of project
 management is essential for an organisation to function. Project management is
 part of every hacker's job. If you're not doing it, either you're giving your
