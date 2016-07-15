@@ -246,6 +246,15 @@ we'll consider later.
 Incidentally, the process of working on implicit dependencies is known as
 [yak-shaving](http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx).
 
+Risk
+----
+
+Classes of risk in project management: requirements risk, 3rd party risk.
+
+Risk logs.
+
+http://blog.scottlogic.com/2014/09/10/does-scrum-make-project-managers-redundant.html
+
 Estimation
 ----------
 
