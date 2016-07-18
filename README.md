@@ -1,5 +1,5 @@
-Project Management for Hackers
-==============================
+Project Management: The Good Parts
+==================================
 
 > "Why is it taking so long?"
 
@@ -13,10 +13,10 @@ things are going to the rest of the organisation.
 
 98% of project management is outmoded, wrong-headed rubbish. 2% of project
 management is essential for an organisation to function. Project management is
-part of every hacker's job. If you're not doing it, either you're giving your
+part of everyones' job. If you're not doing it, either you're giving your
 customers a terrible service or somebody else is having to do it for you. Doing
-it yourself will give you more insight into the value engineers have to their
-customers and make you a more valuable member of an engineering team. It might
+it yourself will give you more insight into the value individual contributers
+have to their customers and make you a more valuable member of a team. It might
 even get you promoted.
 
 Data model
