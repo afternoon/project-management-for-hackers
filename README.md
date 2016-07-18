@@ -403,3 +403,13 @@ COMPROMAN: COMputerised PROject MANager
 - Monte carlo simulation
 - Dependency graphers
 - Backlog and kanban board in Google Sheet
+
+Appendix 1: Primer on process scheduling
+----------------------------------------
+
+Throughout this book, I compare scheduling in project management to how
+processes are scheduled on to CPUs. Here's a quick primer in case you haven't
+come across this area of operating systems implementation before.
+
+TODO
+- https://en.wikipedia.org/wiki/Process_state
